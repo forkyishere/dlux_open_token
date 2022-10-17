@@ -2,10 +2,6 @@
 
 ## 1.3
 
-### 1.3.4
-
-* Allow for API address updates via configuration
-
 ### 1.3.3
 
 * Fix Liquidity Rewards
