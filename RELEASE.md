@@ -2,6 +2,8 @@
 
 ## 1.4
 
+* Test123
+
 ### 1.4.0
 
 * Allow for API address updates via configuration
